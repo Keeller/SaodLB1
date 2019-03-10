@@ -1,2 +1,4 @@
 ﻿  ConsoleApplication27.cpp
+c:\users\kolya\source\repos\consoleapplication27\consoleapplication27\stupiduser.h(141): warning C4715: input_t_var<int>: значение возвращается не при всех путях выполнения
+c:\users\kolya\source\repos\consoleapplication27\consoleapplication27\stupiduser.h(141): warning C4715: input_t_var<double>: значение возвращается не при всех путях выполнения
   ConsoleApplication27.vcxproj -> C:\Users\kolya\source\repos\ConsoleApplication27\Debug\ConsoleApplication27.exe

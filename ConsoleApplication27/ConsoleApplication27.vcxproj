@@ -151,6 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="H:\сиаодлаб\ConsoleApplication8\ConsoleApplication8\StupidUser.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
